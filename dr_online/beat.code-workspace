@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../beat"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "dr_online"
+	}
+}
